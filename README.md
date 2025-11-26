@@ -1,4 +1,4 @@
 # CellMap-Challenge-MiRA
 
 
-This GitHub repository containing the segmentation model we developed and used to create the predictions.
+This GitHub repository contains the code and segmentation model that we developed and used to generate the predictions.
